@@ -111,4 +111,5 @@ const Button = ({ value }) => {
   )
 }
 
-export default Button
+export default Button;
+
